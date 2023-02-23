@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/icrowley/fake v0.0.0-20180203215853-4178557ae428
 	github.com/mattn/go-isatty v0.0.12
-	github.com/mattn/go-runewidth v0.0.9
+	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/phayes/freeport v0.0.0-20171002181615-b8543db493a5
 	github.com/pkg/errors v0.9.1
 	github.com/shurcooL/githubv4 v0.0.0-20190601194912-068505affed7
@@ -27,8 +27,8 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/vektah/gqlparser v1.3.1
 	github.com/xanzy/go-gitlab v0.29.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/oauth2 v0.0.0-20181106182150-f42d05182288
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/text v0.3.2
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/text v0.3.8
 )
